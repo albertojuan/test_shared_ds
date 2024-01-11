@@ -1,0 +1,3 @@
+NODE my_pipe_1
+SQL >
+    select * from shared_ds.my_shared
